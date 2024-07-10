@@ -43,6 +43,7 @@ Average length of words calculated by dividing the total number of characters by
 
 ##How to run 
 
-# Install reuired packeges using "pip install requirements.txt"
-
-# and then directly run main.py 
+Step 1 
+Pip install -r requirements.txt
+Step 2 
+Run main.py file
